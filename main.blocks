@@ -4,4 +4,4 @@
         . # # # . 
         # . # . # 
         . . # . .
-        `</field></block></next></block></statement></block><block type="device_get_brightness" id="8C~FX1o-j4z[tBbPtsYI" disabled="true" x="321" y="532"></block></xml>
+        `</field></block></next></block></statement></block><block type="device_print_message" id="e!s|}TXS75zF-gDnU3:F" disabled="true" x="539" y="442"><value name="text"><shadow type="text" id="BdEi-?}C]z#JdRpWd=3b" disabled="true"><field name="TEXT">2d24giselepoon</field></shadow></value></block><block type="device_get_brightness" id="8C~FX1o-j4z[tBbPtsYI" disabled="true" x="321" y="532"></block></xml>
